@@ -169,3 +169,6 @@ __pycache__/
 *.tmp
 *.swp
 *.synctex(busy)
+report/plotting strategy.txt
+report/main.pdf
+scripts/main.py
